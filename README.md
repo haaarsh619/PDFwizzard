@@ -7,11 +7,6 @@ This is a simple landing page designed for a website that was intended to read P
 - Responsive design
 - Placeholder sections for future functionality
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript (if applicable)
-
 ## Purpose
 This project was created as a practice exercise to improve frontend development skills, focusing on designing a landing page with a professional look and feel.
 
@@ -19,7 +14,8 @@ This project was created as a practice exercise to improve frontend development 
 This project was not deployed or used in any live application. It was solely built for learning purposes.
 
 ## Screenshot (Optional)
-Include a screenshot here if you want to showcase the design.
+![localhost_3001_](https://github.com/user-attachments/assets/30822c52-ebd4-4d16-ad5a-9bbe4078bc4b)
+
 
 ## Future Improvements
 - Integration with backend services for PDF processing
