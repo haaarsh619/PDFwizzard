@@ -1,3 +1,35 @@
+# Landing Page for PDF Summary Website
+
+This is a simple landing page designed for a website that was intended to read PDFs and generate summaries. The landing page was built purely for practice and was not used in a live project.
+
+## Features
+- Clean and modern UI
+- Responsive design
+- Placeholder sections for future functionality
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript (if applicable)
+
+## Purpose
+This project was created as a practice exercise to improve frontend development skills, focusing on designing a landing page with a professional look and feel.
+
+## Status
+This project was not deployed or used in any live application. It was solely built for learning purposes.
+
+## Screenshot (Optional)
+Include a screenshot here if you want to showcase the design.
+
+## Future Improvements
+- Integration with backend services for PDF processing
+- Enhanced UI/UX with animations and interactivity
+- Dark mode support
+
+---
+Feel free to check out the code and use it for your own learning or inspiration!
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
